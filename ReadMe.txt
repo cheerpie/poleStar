@@ -1,0 +1,21 @@
+	-poleStar
+	-==========
+	-
+	-Features
+	---------
+	-	- A ruby library for Pole Star Divination,now aim to offer an accurate chart for different pole star's school.
+	-
+	-Prerequisite
+	-------------
+	-	gem install oauth json
+	-
+	-Example
+	--------
+	-	
+	-
+	-Author and License
+	--------------------
+	-	Cheer Tsai (pie<at>pchome.com.tw)
+	-	
+	-	This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
+	-	To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/3.0/
